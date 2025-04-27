@@ -32,9 +32,9 @@ Database: MongoDB
 
 💻 Hackathons
 
-1.SIM2REAL Hackathon — NITK Suratkal
+1.SIM2REAL Hackathon — NITK Suratkal(
 
-Developed a robotic-based project using Crazyflie drones in a simulated environment.
+🏅Participated and secured 3rd place in it.Developed a robotic-based project using Crazyfli drones in a simulated environment.
 
 Tasks: Platforming, task line coordination, obstacle avoidance, and goal-based challenges.
 
