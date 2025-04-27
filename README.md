@@ -4,6 +4,14 @@
 
 🏅 CGPA: 7.8 | PU: 85.66% | SSLC: 83.54%
 
+📌 Core Competencies
+
+Programming Languages: Basic Java, Basic Python and basic C.
+
+Web Technologies: HTML, CSS, JavaScript
+
+Databases: MySQL
+
 🔧 Projects & Achievements
 
 1.Event Management System (DBMS Project)
