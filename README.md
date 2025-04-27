@@ -1,5 +1,6 @@
 📚 Education
 🎓 B.E. in Information Science — PES Institute of Technology and Management (2022-2026)
+
 🏅 CGPA: 7.8 | PU: 85.66% | SSLC: 83.54%
 
 🔧 Projects & Achievements
